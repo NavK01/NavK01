@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @NavK01
-- 👀 I’m interested in ...Python,Selenium
+- 👀 I’m interested in ... Python, AI & ML, Selenium, Flask
 - 🌱 I’m currently learning ...
