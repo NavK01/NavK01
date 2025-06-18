@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Navjot Kumar
-- 👀 I’m interested in ... Python, AI & ML, Node JS
+- 👀 I’m interested in ... Python, AI & ML.
 - 🌱 I’m currently learning ...
